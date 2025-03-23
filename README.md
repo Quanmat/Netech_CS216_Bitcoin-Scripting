@@ -111,6 +111,45 @@ paytxfee=0.0001
 mintxfee=0.00001
 txconfirmtarget=6
 
+
+
+# [BitcoinCore]
+# # server = 1
+# # rpcuser = netech_team
+# # rpcpassword = JSNjjkcjdecjjaJSX
+# # regtest = 1
+# # rpcport = 18443
+# # fallbackfee = 0.0002
+# # paytxfee = 0.0001
+# # mintxfee = 0.00001
+# # txconfirmtarget = 6
+# server=1
+# regtest=1
+# rpcuser=netech_team
+# rpcpassword=JSNjjkcjdecjjaJSX
+# rpcport=18443
+# fallbackfee=0.0002
+# paytxfee=0.0001
+# mintxfee=0.00001
+# txconfirmtarget=6
+
+# [RPC]
+# host = 127.0.0.1
+# port = 18443
+
+# [Legacy]
+# wallet_name = legacy_wallet
+# rpc_user = netech_team
+# rpc_password = JSNjjkcjdecjjaJSX
+
+# [Segwit]
+# wallet_name = wallet_segwit
+# rpc_user = netech_team
+# rpc_password = JSNjjkcjdecjjaJSX
+
+
+
+
 ```
 
 ## Install Python and Dependencies:
@@ -124,8 +163,8 @@ pip install python-bitcoinrpc
 ```
 ## Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/your_repository_name.git
-cd your_repository_name
+git clone https://github.com/Quanmat/Netech_CS216_Bitcoin-Scripting
+cd Netech_CS216_Bitcoin-Scripting
 
 ```
 
@@ -136,7 +175,7 @@ Start bitcoind in regtest mode:
 
 ```bash
 bitcoind -server -regtest
-
+```
 ## Executing the Scripts
 
 ### Legacy Transactions:
