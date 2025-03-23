@@ -65,7 +65,7 @@ Netech_BitcoinScripting_Assignment2/
 ├── btc_segwit.py         # Script for SegWit (P2SH-P2WPKH) transactions
 ├── bitcoin.conf          # Configuration file to be saved in %APPDATA%/Bitcoin
 ├── README.md             # This README file
-├── comparision.py           
+├── comparison.py           
 └── Report.pdf            # Assignment report with analysis and screenshots
 ```
 ## Features & Transaction Comparison
