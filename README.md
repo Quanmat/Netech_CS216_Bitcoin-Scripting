@@ -210,6 +210,6 @@ Below are sample screenshots demonstrating the successful execution and output o
 ---
 
 ## Support
-For any clarifications or issues, please contact any of the team members or email us at [your_email@example.com].
+In case of any clarifiaction, email any of the team members.
 
 **Prepared by Netech Team – March 2025**
