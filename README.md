@@ -8,6 +8,7 @@ This project implements Bitcoin transaction scripting using both Legacy (P2PKH) 
 ## Table of Contents
 
 - Team Members
+- Report
 - Overview
 - Project Structure
 - Features & Transaction Comparison
@@ -28,6 +29,9 @@ This project implements Bitcoin transaction scripting using both Legacy (P2PKH) 
 - **Gajendra Rana** – Roll No: 230004016
 
 ---
+
+## Project Report
+[View Report](Report.pdf)
 
 ## Overview
 
